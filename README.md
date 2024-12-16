@@ -66,12 +66,12 @@ RegisterNumber:24900174
 */
 ~~~
 **RTL Schematic**
-
+![Screenshot (24)](https://github.com/user-attachments/assets/bf2c0e59-2c59-4196-b095-2c9927831b8b)
 ![391812005-f0422017-40df-4f51-8b2b-18ebbb9d47ea](https://github.com/user-attachments/assets/504a07b7-09fa-4c47-b435-4bfd247cba4f)
 
 **Output Timing Waveform**
 ![391812099-d5d06393-4aaa-4ce0-a983-ce784ddbf165](https://github.com/user-attachments/assets/9e4fdd4b-16b5-40ac-9232-8cedfc9fdd29)
-
+![Screenshot (23)](https://github.com/user-attachments/assets/9ab6111e-6845-4b51-9ecb-47c04441d845)
 **Result:**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
